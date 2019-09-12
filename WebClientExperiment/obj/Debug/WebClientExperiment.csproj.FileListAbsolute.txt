@@ -1,0 +1,54 @@
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\WebClientExperiment.exe.config
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\WebClientExperiment.exe
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\WebClientExperiment.pdb
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\obj\Debug\WebClientExperiment.exe
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\obj\Debug\WebClientExperiment.pdb
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\WebClientExperiment.exe.config
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\WebClientExperiment.exe
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\WebClientExperiment.pdb
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\obj\Debug\WebClientExperiment.csprojResolveAssemblyReference.cache
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\obj\Debug\WebClientExperiment.exe
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\obj\Debug\WebClientExperiment.pdb
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\obj\Debug\WebClientExperiment.Properties.Resources.resources
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\obj\Debug\WebClientExperiment.csproj.GenerateResource.Cache
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\Autofac.dll
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\Tweetinvi.dll
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\Autofac.xml
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Clayt\Documents\_VisualStudio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\Autofac.dll
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\Tweetinvi.dll
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\Autofac.xml
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\obj\Debug\WebClientExperiment.csprojAssemblyReference.cache
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\obj\Debug\WebClientExperiment.Properties.Resources.resources
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\obj\Debug\WebClientExperiment.csproj.GenerateResource.cache
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\obj\Debug\WebClientExperiment.csproj.CoreCompileInputs.cache
+C:\Users\Clayt\OneDrive\_Visual Studio\C#\WebClientExperiment\WebClientExperiment\obj\Debug\WebClientExperiment.csproj.CopyComplete
